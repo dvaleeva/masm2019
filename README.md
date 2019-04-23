@@ -1,4 +1,4 @@
-"Mining and Analyzing Social Media workshop"
+"Mining and Analyzing Social Media" workshop.
 
 Prepared by Diliara Valeeva for Social Science Research Masters.
 
