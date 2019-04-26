@@ -2,4 +2,4 @@
 
 Prepared by Diliara Valeeva for Social Science Research Masters.
 
-University of Amsterdam, 25 April January 2019, Roeterseiland campus, room REC JK B.54
+University of Amsterdam, 25 April 2019, Roeterseiland campus, room REC JK B.54
